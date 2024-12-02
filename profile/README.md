@@ -6,7 +6,7 @@ Step into the world of Evelode, where quality, creativity, and innovation conver
 
 _____
 
-Start earning cash for referrals! Join [Affiliate Program](https://evelode.com/affiliate-program).
-Have a question? [Chat with us](https://evelode.com/#chatraChatExpanded).
-Take a look at [Evelode Status](https://status.evelode.com/) is the uptime monitor and status page.
-[TikTok REST API](https://evelode.com/downloads/tiktok-rest-api/). Easy to use API for your projects.
+- Start earning cash for referrals! Join [Affiliate Program](https://evelode.com/affiliate-program)
+- Have a question? [Chat with us](https://evelode.com/#chatraChatExpanded)
+- Take a look at [Evelode Status](https://status.evelode.com/) is the uptime monitor and status page
+- [TikTok REST API](https://evelode.com/downloads/tiktok-rest-api/). Easy to use API for your projects
